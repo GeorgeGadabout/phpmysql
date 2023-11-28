@@ -1,10 +1,10 @@
 <?php
 
 //update connection information with your MySQL database information
-$dbhost ="localhost";
-$dbuser="xxxx";
-$dbpass="xxxx";
-$dbname = "xxxx";
+$dbhost ="georgegadabout";
+$dbuser="george";
+$dbpass="134679";
+$dbname = "tumbleweed";
 
 //Connect to MySQL Server with selected Database
 $mysqli = new mysqli($dbhost ,$dbuser ,$dbpass ,$dbname );
